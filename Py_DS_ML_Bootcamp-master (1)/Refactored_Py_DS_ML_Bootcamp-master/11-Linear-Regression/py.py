@@ -1,1 +1,0 @@
-def linear_search(arr, key):  #f
